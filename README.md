@@ -156,5 +156,8 @@ Frontend-https://page-pulse-666q.onrender.com
 Backend-https://page-pulse-backend-618k.onrender.com
 
 ---
+#AI Usage
+
+During the development of this project, I used AI tools to assist with understanding the assignment requirements, clarifying implementation approaches, debugging errors, and improving the README and project documentation. The application architecture, implementation, testing, debugging, deployment, and final decisions were completed and verified by me.
 
 Built for the Digital Heroes Internship Qualification Task.
