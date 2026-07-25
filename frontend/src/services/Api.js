@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://localhost:3001/api",
+  baseURL: "https://page-pulse-backend-618k.onrender.com/api",
 });
 
 export default api;
